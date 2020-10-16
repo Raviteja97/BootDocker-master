@@ -1,0 +1,5 @@
+projectKey=com.docker:dockerdemo
+serverUrl=http://localhost:9003
+dashboardUrl=http://localhost:9003/dashboard/index/com.docker:dockerdemo
+ceTaskId=AXUqyk2Hbkbd-OF112lj
+ceTaskUrl=http://localhost:9003/api/ce/task?id=AXUqyk2Hbkbd-OF112lj
